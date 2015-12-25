@@ -1,0 +1,4 @@
+.text
+
+lui $1,0xBAAD
+ori $9,$1,0xF00D
